@@ -76,14 +76,7 @@ To log in as a user, first register by creating a new account. Then log in with 
 
 # How to Add an Image to the Form
 
-## 1. Add the Image to the `assets` Folder
-
-- Place the image you want to add to the form inside the `src/assets/` folder in your project.
-- For example, if the image is named `news.jpg`, it should be located at the following path:
-
-                                /src/assets/news.jpg
-
-- now you can use it and it will appear
+1- put image link address easy
 
 🙌 Author
 Made with ❤️ by kerolessiha
