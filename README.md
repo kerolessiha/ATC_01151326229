@@ -73,6 +73,7 @@ To log in as a user, first register by creating a new account. Then log in with 
 ![Screenshot1](/src/assets/screenshoots/admin%20page%202.png)
 ![Screenshot1](/src/assets/screenshoots/congratulations%20page.png)
 ![Screenshot1](/src/assets/screenshoots/not%20found%20page.png)
+![Screenshot1](/src/assets/screenshoots/Event%20Details%20page.png)
 
 # How to Add an Image to the Form
 
